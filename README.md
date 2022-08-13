@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://www.figma.com/proto/fvTkIk2NDR1fasUHU8COMP/Wireframes?node-id=2%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2
+<a href="https://app.daily.dev/alyssariah"><img src="https://api.daily.dev/devcards/7eee76206f954a7c91509564dc6e04fd.png?r=kfn" width="400" alt="Alyssa Jackson's Dev Card"/></a>
 
 
 <!--
