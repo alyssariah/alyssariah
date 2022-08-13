@@ -1,7 +1,13 @@
-## Hi, I am Alyssa Jackson! 
-</br>
+# Hi there 👋
 
- <div>
+I am Alyssa Jackson, currently working as a Software Developer and UX Designer at the [ARKH](https://arkh.com/). I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+
+[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alyssa-riah-jackson/)](https://www.linkedin.com/in/alyssa-riah-jackson/)
+[![Gmail Badge](https://img.shields.io/badge/-alyssariah@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alyssariah@gmail.com)](mailto:alyssariah@gmail.com)
+
+## Stats
+
+<div>
   <a href="https://github.com/alyssariah">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyssariah&layout=compact&langs_count=16&theme=dracula"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alyssariah&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
@@ -27,15 +33,8 @@
   
 </br>
 
-## Contact 
-<div> 
-  <a href="https://www.linkedin.com/in/ericagrundy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://twitter.com/ericagrundy" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/ericagrundy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto: ericamalakian@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </br>
-</br>
+## Contibutions
+
  
   ![Snake animation](https://github.com/alyssariah/alyssariah/blob/output/github-contribution-grid-snake.svg)
  
-</div>
