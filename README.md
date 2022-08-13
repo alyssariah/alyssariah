@@ -29,13 +29,14 @@ My name is Alyssa Jackson and I am currently working as a Software Developer and
 
 ## Stats
 
-<a href="https://app.daily.dev/alyssariah" align='right'><img src="https://api.daily.dev/devcards/7eee76206f954a7c91509564dc6e04fd.png?r=kfn" width="250" alt="Alyssa Jackson's Dev Card" align='right'/></a>
-
 <div>
   <a href="https://github.com/alyssariah">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyssariah&layout=compact&langs_count=16&theme=dracula"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alyssariah&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
+  
+ <br/>
+<a href="https://app.daily.dev/alyssariah"><img src="https://api.daily.dev/devcards/7eee76206f954a7c91509564dc6e04fd.png?r=kfn" width="250" alt="Alyssa Jackson's Dev Card"/></a>
 
 ## Contibutions
 
