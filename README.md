@@ -2,9 +2,9 @@
 </br>
 
  <div>
-  <a href="https://github.com/eagrundy">
+  <a href="https://github.com/alyssariah">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eagrundy&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eagrundy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alyssariah&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
   
   <a href="https://app.daily.dev/alyssariah"><img src="https://api.daily.dev/devcards/7eee76206f954a7c91509564dc6e04fd.png?r=kfn" width="400" alt="Alyssa Jackson's Dev Card"/></a>
