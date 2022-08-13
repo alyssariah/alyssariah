@@ -3,6 +3,9 @@
 <a href="https://app.daily.dev/alyssariah"><img src="https://api.daily.dev/devcards/7eee76206f954a7c91509564dc6e04fd.png?r=kfn" width="400" alt="Alyssa Jackson's Dev Card"/></a>
 
 
+![Snake animation](https://github.com/alyssariah/alyssariah/blob/output/github-contribution-grid-snake.svg)
+
+
 <!--
 **alyssariah/alyssariah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
