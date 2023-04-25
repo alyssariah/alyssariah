@@ -1,6 +1,6 @@
 # Hello World!
 
-My name is Alyssa Jackson and I am currently working as a full-stack developer at a healthcare compliance software company called Compliancy Group. I can work also do UI/UX design and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+My name is Alyssa Jackson and I am currently working as a full-stack developer at a healthcare compliance software company called Compliancy Group. I can also do UI/UX design and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
   
 [![Linkedin Badge](https://img.shields.io/badge/-alyssariah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alyssa-riah-jackson/)](https://www.linkedin.com/in/alyssa-riah-jackson/)
