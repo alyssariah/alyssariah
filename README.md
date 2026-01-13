@@ -1,8 +1,11 @@
 # Hello World!
 
-My name is Alyssa Jackson and I am currently working as an application developer. I can also do UI/UX design and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+I’m a senior software engineer with a platform focus, working across CI/CD, cloud infrastructure, testing strategy, and observability to help engineering teams ship reliably at scale.
 
-  
+I design and own the systems that support delivery, including pipelines, release workflows, service architecture, and developer tooling. While my background spans frontend and backend development, my highest impact work has been leading org-wide initiatives that improve developer experience, system reliability, and long-term maintainability.
+
+I’m often brought in to modernize systems, untangle complex workflows, and turn ambiguity into clear, scalable architecture that teams can trust.
+
 [![Linkedin Badge](https://img.shields.io/badge/-alyssariah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alyssa-riah-jackson/)](https://www.linkedin.com/in/alyssa-riah-jackson/)
 [![Gmail Badge](https://img.shields.io/badge/-alyssariah@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alyssariah@gmail.com)](mailto:alyssariah@gmail.com)
   
