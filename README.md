@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <a href="https://github.com/alyssariah">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=500&size=22&duration=4000&pause=2500&color=50BFC6&center=true&vCenter=true&width=680&lines=Hi%2C+I%27m+Alyssa;I+build+products+and+the+platforms+behind+them;I+like+the+messy+end+of+engineering;Currently+leading+full-stack+at+Brown+Jordan" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=500&size=22&duration=4000&pause=2500&color=50BFC6&center=true&vCenter=true&width=680&lines=Hi%2C+I%27m+Alyssa+%F0%9F%91%8B;Building+platforms%2C+products%2C+and+AI+tools;Usually+somewhere+with+my+dog+River" alt="Typing SVG" />
 </a>
 
 <br/>
